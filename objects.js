@@ -2,4 +2,4 @@ var playlist = {
   adele: 'hello',
 };
 
-playlist['artistName'] = 'songTitle';
+playlist.artistName = 'songTitle';
